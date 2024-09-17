@@ -1,2 +1,2 @@
-# Capstone-Project
-Identifying Misinformation in News Articles Using NLP and Machine Learning
+## Identifying Misinformation in News Articles Using NLP and Machine Learning
+# Project Overview
